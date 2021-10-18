@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.form-div{
+  margin-top: 5vh;
+}
+
+.Image-Div{
+  margin-bottom: 5vh;
+}
+
+.image{
+  width: 25vw;
+  min-width: 350px;
+}
